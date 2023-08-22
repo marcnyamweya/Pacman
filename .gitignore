@@ -1,0 +1,3 @@
+# Ignore files and directories with these names
+__pycache__/
+.vscode/
