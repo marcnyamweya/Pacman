@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "Gamestate",
+        "getch",
+        "nextx",
+        "nexty",
+        "PACMAN",
+        "pygame",
+        "vecs"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
